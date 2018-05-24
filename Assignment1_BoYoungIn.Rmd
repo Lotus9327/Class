@@ -9,7 +9,7 @@ output:
 
 <center>
 
-![_At My Happiest Moment: Eating Korean Food_](bo.jpg) 
+![_At My Happiest Moment: Eating Korean Food_](Bo.jpg) 
 
 </center>
 
