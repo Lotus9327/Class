@@ -1,4 +1,3 @@
-
 ---
 title: "Hello Class, Nice to Meet You!"
 author: "Bo Young In"
