@@ -2,9 +2,7 @@
 ---
 title: "Hello Class, Nice to Meet You!"
 author: "Bo Young In"
-output:
-  html_document:
-    df_print: paged
+output: html_document
 ---
 
 <center>
