@@ -1,7 +1,7 @@
 ---
-title: "Hello Class, Nice to Meet You!"
-author: "Bo Young In"
-output: html_document
+Title: "Hello Class, Nice to Meet You!"
+Author: "Bo Young In"
+Output: html_document
 ---
 
 ![_At My Happiest Moment: Eating Korean Food_](Bo.jpg) 
