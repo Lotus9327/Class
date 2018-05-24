@@ -5,22 +5,17 @@ author: "Bo Young In"
 output: html_document
 ---
 
-<center>
-
 ![_At My Happiest Moment: Eating Korean Food_](Bo.jpg) 
 
-</center>
-
-
-##### <span style="color:Hotpink">__**My Motos in Life**__</span>
+##### __**My Motos in Life**__
     * Enjoy and Have Fun, Live According to Values, Contribute to Improving Human Conditions
 
 
-##### <span style="color:Hotpink">__Background__</span>
+##### __Background__
     * Grew up in Seoul, Korea
     * Lived in Chicago, Ithaca, Los Angeles, Geneva (Switzerland), Washington DC and now South Florida
     
-##### <span style="color:Hotpink">__Favorite Things__</span>
+##### __Favorite Things__
     * Being Active and Healthty
          * Jogging, Weightlifting, Biking, Paleo Cooking
          
@@ -34,7 +29,7 @@ output: html_document
     
     * Mentoring Youth and Tutoring Math
 
-##### <span style="color:Hotpink">__Professional Background__</span>
+##### __Professional Background__
     * Mid Term Goal - 
           * Pursue Intersting and Impactful Career in Data Analysis and Research 
           * Aim to Enroll in a MA program for Biostatistics (and maybe phD) 
