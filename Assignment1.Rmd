@@ -1,8 +1,11 @@
 ---
 title: "Assignment 1"
-author: 'Your name'
-output: html_document
+author: 'Bo Young (Bo) In'
+output: html_notebook
 ---
 
 
-
+* Favorite Things
+  + sub-item 1
+  + sand
+  
